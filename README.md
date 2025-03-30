@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Weather2.0<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with App Monitor<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Tagless<br>🤝 I’m looking for help with App Monitor<br>🌱 I’m currently learning JavaScript
 
 
 ## 🌐 Socials:

@@ -10,7 +10,11 @@
 
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/aneeshshukla/aneeshshukla/36b992c20e7e66ac80c8b5cbb319887d7e1ae46c/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeshshukla/aneeshshukla/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeshshukla/aneeshshukla/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aneeshshukla/aneeshshukla/output/github-contribution-grid-snake.svg" />
+</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aneeshshukla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>

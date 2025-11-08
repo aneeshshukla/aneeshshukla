@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FrostBite<br>🤝 I’m looking for help with App Monitor<br>🌱 I’m currently learning JavaScript
+🔭 I’m currently working on FrostBite<br>🤝 I’m looking for help with Brankrupt<br>🌱 I’m currently learning JavaScript
 
 
 ## 🌐 Socials:

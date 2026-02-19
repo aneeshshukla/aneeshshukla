@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FrostBite<br>🤝 I’m looking for help with Brankrupt<br>🌱 I’m currently learning JavaScript
+🔭 I’m currently working on ANIMETOWN<br>🤝 I’m looking for help with SHIRO<br>🌱 I’m currently learning JavaScript
 
 
 ## 🌐 Socials:
